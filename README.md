@@ -1,7 +1,7 @@
 # Profil Anggota Kelompok
 
 - **Kelompok: 1**
-- **Nama: Asep Kopling**  
+- **Nama: Asep Legam**  
 - **NIM: 0987654321**  
 - **Role di Kelompok: Front-End**  
 - **Program Studi: S3 Marketing**  
