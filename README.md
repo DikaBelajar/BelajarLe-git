@@ -1,14 +1,14 @@
 # Profil Anggota Kelompok
 
-- **Kelompok: 3**
-- **Nama: Budi Handuk**  
-- **NIM: 1234567890**  
-- **Role di Kelompok: Back-End**  
-- **Program Studi: S1 Marketing**  
-- **Semester: 5**  
-- **Hobi: Tidur**  
-- **Makanan/Minuman Favorit: Pisang dan Kopi Tubruk**  
-- **Film/Buku Favorit: Harry Puter**  
+- **Kelompok: 1**
+- **Nama: Asep Kopling**  
+- **NIM: 0987654321**  
+- **Role di Kelompok: Front-End**  
+- **Program Studi: S3 Marketing**  
+- **Semester: 6**  
+- **Hobi: Makan**  
+- **Makanan/Minuman Favorit: Apple dan Teh Tarik**  
+- **Film/Buku Favorit: F1 Movie**  
 - **Akun GitHub: kasihapakek**  
 
 Silakan lengkapi data di atas sesuai identitas masing-masing anggota kelompok.
